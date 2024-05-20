@@ -1,0 +1,5 @@
+SK Hynix, one of the world's largest memory chipmakers, said it would invest $3.87 billion in its first chip packaging facility in the U.S., marking another victory for the Biden administration's efforts to onshore chip production. 
+The South Korean firm announced the West Lafayette, Indiana-based project at an event at Purdue University on Wednesday, with officials from Indiana State and the U.S. government in attendance. 
+SK Hynix said the facility, slated for operation in 2028, will house a production line for SK Hynix's cutting-edge high-bandwidth memory chips — important components in the Nvidia GPUs used to train AI systems like ChatGPT. 
+"We are excited to become the first in the industry to build a state-of-the-art advanced packaging facility for AI products in the United States," said SK Hynix CEO Kwak Noh-Jung in a statement, adding it would "strengthen supply-chain resilience and develop a local semiconductor ecosystem." 
+The project will also bring more than a thousand new jobs to the region and will include an R&D facility to develop future generations of chips, according to the company.

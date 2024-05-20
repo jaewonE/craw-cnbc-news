@@ -1,0 +1,14 @@
+South Korea's Samsung Electronics reported Tuesday quarterly operating profit that was better than expected despite dropping 77.6% from a year ago.
+While it was a decline year-on-year, third quarter operating profit jumped 262.6% from the second quarter, signaling that a memory chip glut may be bottoming out. First quarter operating profit plummeted 85.15% from the fourth quarter of 2022, while second-quarter operating profit saw only 4.68% improvement from the first quarter.
+Here are Samsung's third-quarter results versus estimates:
+Samsung's revenue for the quarter ending September fell 12.2% from a year ago, while operating profit dropped 77.6% in the same period.
+Earlier this month, Samsung estimated third-quarter revenue would be 67 trillion Korean won and operating profit to be 2.4 trillion won.
+The South Korean chip giant is the largest dynamic random-access memory chip maker in the world. Its memory chips are found in consumer devices such as smartphones and computers.
+"In the fourth quarter, uncertainties persist regarding the market's recovery driven by wars and geopolitical risks, gradual demand rebound and ongoing customer inventory adjustments," said Samsung during its earnings call on Tuesday.
+"Nevertheless, we're observing initial indications of demand, gradually stabilizing and improving, supported by recovering consumer sentiment, easing inflation and major customers introducing new products, particularly in the PC and mobile segments," Samsung said.
+On the outlook for memory demand, Samsung said it expects fourth quarter demand to pick up with year-end promotions, new product launches by its major customers as well as strong demand for generative AI.
+Large language models such as ChatGPT require a lot of high-performance memory chips, which enable such generative AI models to remember details from past conversations and user preferences in order to generate humanlike responses.
+In a press release ahead of its earnings call, Samsung said that it "received numerous purchase inquiries amid widening awareness of the industry reaching a bottom, following the industry-wide production cuts." It added that it continued to expand sales of advanced-node products.
+These advanced-node products include DDR5 — double data rate 5 synchronous dynamic random-access memory, and UFS4.0 — flash storage for the 5G era.
+"Our view on a meaningful profit recovery for the next several quarters led by memory is intact, with the larger industry-wide production cuts, gradually improving demand trends, as well as mix improvement towards high-average selling price products such as DDR5," said Goldman Sachs in an Oct. 12 report. 
+The investment firm maintained a "buy" rating with an unchanged target price of 93,000 won. Samsung shares were down 0.30% at 67,100 won on Tuesday morning.

@@ -1,0 +1,6 @@
+Qualcomm on Thursday announced a new chip that will be used by Samsung and Google for mixed reality devices that are likely to compete with Apple's Vision Pro headset.
+Qualcomm, Samsung and Google announced a partnership last year to work on mixed-reality devices. Mixed reality allows you to overlay digital content over the real world using a headset. The latest chip, which can run Android applications, suggests the companies will choose to release a more affordable headset than Apple's $3,499 Vision Pro, which is due to launch early this year. Apple's headset runs on its M2 processor that powers some Macs.
+The new Qualcomm chip, known as the Snapdragon XR2+ Gen 2, is a step up from the older Snapdragon XR2 Gen 2 used in the $499.99 Meta Quest 3, with support for sharper screens and improved graphics.
+"Snapdragon XR2+ Gen 2 unlocks 4.3K resolution which will take XR productivity and entertainment to the next level by bringing spectacularly clear visuals to use cases such as room-scale screens, life-size overlays and virtual desktops," said Hugo Swart, vice president and general manager of extended reality at Qualcomm.
+It's unclear when new products from Samsung and Google will launch.
+Don't miss these stories from CNBC PRO:

@@ -1,0 +1,7 @@
+High-performance memory chips are likely to remain in tight supply this year, as explosive AI demand drives a shortage for these chips, according to analysts.
+SK Hynix and Micron – two of the world's largest memory chip suppliers – are out of high-bandwidth memory chips for 2024, while the stock for 2025 is also nearly sold out, according to the firms.
+"We expect the general memory supply to remain tight throughout 2024," Kazunori Ito, director of equity research at Morningstar said in a report last week.
+The demand for AI chipsets has boosted the high-end memory chip market, hugely benefiting firms such Samsung Electronics and SK Hynix, the top two memory chipmakers in the world. While SK Hynix already supplies chips to Nvidia, the company is reportedly considering Samsung as a potential supplier too.
+High-performance memory chips play a crucial role in the training of large language models (LLMs) such as OpenAI's ChatGPT, which led AI adoption to skyrocket. LLMs need these chips to remember details from past conversations with users and their preferences to generate human-like responses to queries.
+"The manufacturing of these chips are more complex and ramping up production has been difficult. This likely sets up shortages through the rest of 2024 and through much of 2025," said William Bailey, director at Nasdaq IR Intelligence.
+HBM's production cycle is longer by 1.5 to 2 months compared with DDR5 memory chip commonly found in personal computers and servers, market intelligence firm TrendForce said in March.

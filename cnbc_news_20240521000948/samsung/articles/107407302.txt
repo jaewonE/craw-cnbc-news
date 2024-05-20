@@ -1,0 +1,9 @@
+Samsung Electronics on Tuesday said operating profit for the first quarter jumped 932.8% as memory chip prices rebounded on the back of AI optimism.
+Here are Samsung's first-quarter results versus LSEG estimates:
+Samsung's revenue for the quarter ending March jumped 12.81% from a year ago, while operating profit soared 932.8% in the same period.
+The figures were in line with the company's guidance earlier this month, where Samsung said operating profit in the January-March quarter likely rose to 6.6 trillion Korean won, up 931% from a year ago. The firm expected first quarter revenue at 71 trillion won.
+The South Korean electronics giant saw record losses in 2023 as the industry reeled from a post-Covid slump in demand.
+"The company posted KRW 71.92 trillion in consolidated revenue on the back of strong sales of flagship Galaxy S24 smartphones and higher prices for memory semiconductors. Operating profit increased to KRW 6.61 trillion as the Memory Business returned to profit by addressing demand for high value-added products," Samsung Electronics said in a statement on Tuesday.
+Citi analysts said they see upside for Samsung's NAND flash memory business as a result of AI computing demand. In a note on April 5, they reiterated their "buy" rating on the firm with a target price of 120,000 won — a 56% upside from the closing price of 76,700 won on Monday.
+NAND is another staple memory chip alongside DRAM.
+"We expect storage (HDD) to be the next bottleneck in AI computing, especially in AI training, and foresee Samsung Electronics to be one of the key beneficiaries of SSD demand momentum for AI training," said the Citi analysts.

@@ -1,0 +1,9 @@
+Huawei's latest high-end phone features more Chinese suppliers, including a new flash memory storage chip and an improved chip processor, a teardown analysis showed, pointing to the progress China is making towards technology self-sufficiency.
+Online tech repair company iFixit and consultancy TechSearch International examined the inside of Huawei Technologies' Pura 70 Pro for Reuters, finding a NAND memory chip they said was likely packaged by the Chinese telecoms equipment maker's in-house chip unit HiSilicon and several other components made by Chinese suppliers.
+These findings have not been previously reported.
+Huawei's resurgence in the high-end smartphone market after four years of U.S. sanctions is being widely watched by both rivals and U.S. politicians as it has become a symbol of growing U.S.-China trade frictions and China's bid for technology self-sufficiency.
+The firms also found that the Pura 70 phones run on an advanced processing chipset made by Huawei called the Kirin 9010 that is likely only a slightly improved version of the Chinese-made advanced chip used by Huawei's Mate 60 series.
+"While we cannot provide an exact percentage, we'd say the domestic component usage is high, and definitely higher than in the Mate 60," said Shahram Mokhtari, iFixit's lead teardown technician.
+"This is about self-sufficiency, all of this, everything you see when you open up a smartphone and see whatever are made by Chinese manufacturers, this is all about self-sufficiency," Mokhtari said.
+Huawei declined to comment.
+Huawei launched the Pura 70's four smartphone models in late April and the series quickly sold out. Analysts say it will likely take more market share from iPhone manufacturer Apple, while policymakers in Washington are questioning the efficacy of U.S. curbs on the telecoms equipment giant.

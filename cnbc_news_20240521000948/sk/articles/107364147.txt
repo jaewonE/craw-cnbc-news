@@ -1,0 +1,6 @@
+South Korea's SK Hynix said on Thursday it will focus on high-end memory semiconductors used in artificial intelligence chipsets this year after strong demand drove a surprise profit in the fourth quarter.
+The world's second-biggest memory chipmaker which counts AI-chip leader Nvidia as a key client reported an operating profit of 346 billion won ($259.8 million) for the October-December quarter. Revenue soared 47%.
+That beat expectations for a 192 billion won operating loss and marked its first operating profit since the third quarter of 2022. It had logged a loss of 1.9 trillion won a year earlier.
+"We achieved [a] turnaround...following a protracted downturn, thanks to our technological leadership in the AI memory space," CFO Kim Woohyun said in a statement, adding that the company would strive to "grow into a total AI memory provider".
+SK Hynix's advanced DRAM chips such as high bandwidth memory (HBM) chips are in high demand for use in the graphic processing units (GPUs) made by Nvidia and others that process vast amounts of data in generative AI.
+The company said its sales of HBM3 chips — which it developed ahead of rivals — increased by more than fivefold in 2023 from a year earlier.

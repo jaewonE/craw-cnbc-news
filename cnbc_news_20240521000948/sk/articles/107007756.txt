@@ -1,0 +1,9 @@
+South Korean chipmaker SK Hynix Inc said it expects supply chain issues to gradually improve from the second half of the year and demand for memory chips to grow, after booking a four-fold on-year increase in fourth-quarter operating profit.
+The world's second-biggest memory chipmaker, whose clients include Apple Inc, on Friday reported 4.2 trillion won ($3.49 billion) in October-December profit, from 959 billion won a year earlier, helped by demand from server clients expanding data storage capacity.
+The figure represented SK Hynix's highest quarterly profit since 2018, and exceeded the 4 trillion won average of analyst estimates compiled by Refinitiv SmartEstimate.
+Revenue climbed 55% to a record 12.4 trillion won.
+The fourth quarter saw SK Hynix complete the first phase of its acquisition of Intel's Corp NAND flash memory chip business. With that acquisition, SK Hynix expects NAND flash sales to double this year from last, it said on Friday.
+Prices of NAND chips that serve the data storage market are likely to fall by 8-13% in January-March from October-December, less than an earlier forecast of 10-15% drop, showed data from TrendForce.
+The improved forecast reflects an order increase from PC makers as a Covid-19 lockdown in Xian, China, last month renewed concern about global chip supply, and as manufacturers restock chips amid easing of other component shortages, TrendForce said.
+For DRAM chips that are widely used in data centers and tech devices, SK Hynix on Friday said it plans to manage inventory flexibly while focusing on profitability in 2022.
+DRAM prices are also likely to fall less than previously expected, or about 5% this quarter, Seoul-based analysts said.

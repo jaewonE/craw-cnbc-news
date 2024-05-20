@@ -1,0 +1,8 @@
+South Korean memory chipmaker SK Hynix on Thursday reported a net profit of 1.92 trillion South Korean won ($1.39 billion) in the first quarter, reversing a loss of 2.58 trillion won logged in the same period a year ago.
+This was the first positive income recorded since the third quarter of 2022, LSEG data showed. SK Hynix posted net losses for five consecutive quarters from a slump in the memory chip market.
+Revenue in the first quarter stood at 12.43 trillion won, a 144% increase from a year ago. This was the highest revenue logged since second quarter 2022, according to LSEG data.
+SK Hynix attributed the strong performance to an "increase in the sales of AI server products backed by its leadership in AI memory technology including high-bandwidth memory" as well as efforts to drive profitability.
+SK Hynix is the world's second-largest memory chipmaker after Samsung Electronics and supplies high-bandwidth memory chips catering to AI chipsets for companies like Nvidia.
+The explosive demand for AI chipsets boosted the high-end memory chip market, hugely benefiting players like SK Hynix and Samsung Electronics.
+Large language models such as ChatGPT – which caused AI adoption to skyrocket – require a lot of high-performance memory chips as such chips allow these models to remember details from past conversations and user preferences in order to generate humanlike responses.
+To meet AI memory demand, the firm said it plans to increase supply of HBM3E – the latest generation of high-bandwidth memory for AI. SK Hynix said it will also introduce 32GB Double Data Rate 5 products this year to strengthen its leadership in the high-capacity server DRAM market.

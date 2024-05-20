@@ -1,0 +1,4 @@
+Samsung could add generative artificial intelligence technology to its voice assistant Bixby, a top executive at the company told CNBC, as the South Korean giant looks to enhance the appeal of its devices.
+Bixby launched in 2017 with Samsung's Galaxy S8 smartphone. The software offered a number of functions, including live translations or restaurant recommendations.
+But voice assistants have typically been less conversational and have relied on users asking questions and getting answers.
+Chatbots are now more advanced and able to handle much more complex queries, after the emergence of OpenAI's ChatGPT and its rivals. These new-age chatbots are an example of generative AI, which allows users to prompt with a query and will generate a response in the form of text, a picture, and now even video.

@@ -1,0 +1,7 @@
+South Korea's SK Hynix said a boom in artificial intelligence will drive chip profits after posting a sharply narrower third quarter loss than it did in the previous quarter.
+Strong demand for advanced chips used in AI helped ease the impact of a prolonged slowdown in demand for commodity chips used in smartphones and computers in the three months to the end of September, the world's second-biggest memory chipmaker said on Thursday.
+SK Hynix said its business selling DRAM chips, used in tech devices, had returned to profit in the third quarter, after reporting losses in the first two quarters of this year.
+"The DRAM business ... is expected to continue to improve along with the generative AI boom. The NAND flash business, which continues to suffer losses, is also showing signs of improvement," the chipmaker said in a statement.
+SK Hynix said it swung to a 1.8 trillion won, or $1.33 billion, third-quarter operating loss from a profit of 1.7 trillion won a year earlier.
+It was its fourth consecutive quarterly loss, but improved from a trough of a 3.4 trillion won loss in the first quarter and a 2.9 trillion won loss in the second quarter.
+The result slightly missed a 1.7 trillion won operating loss estimated by 20 analysts' views compiled by LSEG SmartEstimate, which is weighted toward analysts who are more consistently accurate. Revenue fell 18% year-on-year to 9.1 trillion won.

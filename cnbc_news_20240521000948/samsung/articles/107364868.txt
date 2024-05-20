@@ -1,0 +1,3 @@
+Baidu AI Cloud will be integrating its Ernie chatbot into Samsung's Galaxy S24 smartphones, allowing users to translate calls in real time, among other features.
+Ernie is the Chinese tech giant's answer to OpenAI's ChatGPT, a chatbot powered by artificial intelligence technology that's able to generate humanlike responses to users' prompts.
+It comes a week after Samsung revealed its latest Galaxy S24 lineup with AI-powered features as the South Korean electronics giant attempts to overtake the likes of Apple's newest iPhones with the technology.

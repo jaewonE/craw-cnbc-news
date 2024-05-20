@@ -1,0 +1,10 @@
+Samsung Electronics on Tuesday said it has developed a new high-bandwidth memory chip that has the "highest-capacity to date" in the industry.
+The South Korean chip giant claimed the HBM3E 12H "raises both performance and capacity by more than 50%."
+"The industry's AI service providers are increasingly requiring HBM with higher capacity, and our new HBM3E 12H product has been designed to answer that need," said Yongcheol Bae, executive vice president of memory product planning at Samsung Electronics.
+"This new memory solution forms part of our drive toward developing core technologies for high-stack HBM and providing technological leadership for the high-capacity HBM market in the AI era," said Bae.
+Samsung Electronics is the world's largest maker for dynamic random-access memory chips, which are used in consumer devices such as smartphones and computers.
+Generative AI models such as OpenAI's ChatGPT require large numbers of high-performance memory chips. Such chips enable generative AI models to remember details from past conversations and user preferences in order to generate humanlike responses.
+The AI boom continues to fuel chipmakers. U.S. chip designer Nvidia posted a 265% jump in fourth fiscal quarter revenue thanks to skyrocketing demand for its graphics processing units, thousands of which are used to run and train ChatGPT.
+During a call with analysts, Nvidia CEO Jensen Huang said the company may not be able to maintain this level of growth or sales for the whole year.
+"As AI applications grow exponentially, the HBM3E 12H is expected to be an optimal solution for future systems that require more memory. Its higher performance and capacity will especially allow customers to manage their resources more flexibly and reduce total cost of ownership for datacenters," said Samsung Electronics.
+Samsung said it has started sampling the chip to customers and mass production of the HBM3E 12H is planned for the first half of 2024.

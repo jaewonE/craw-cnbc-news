@@ -7,7 +7,7 @@ from tqdm import tqdm
 import os
 import shutil
 import json
-
+import time
 
 DEFAULT_SETTING = {
     "batch_size": 10,
@@ -317,15 +317,20 @@ def remove_file_that_not_in_info(info_list: List[Dict[str, any]], folder_name: s
 # 주 설정
 # keyword_list = ['apple', 'samsung', 'amazon', 'facebook',
 #                 'google', 'microsoft', 'tesla', 'netflix', 'alibaba', 'tencent']
-keyword_list = ['samsung', 'netflix', 'sk']
+ticker = pd.read_csv("sp500_tickers_pre_2010.csv")
+# keyword_list = ticker['Security'][11:]
+keyword_list = ['Amazon']
 start_page = 1  # 1부터 시작
 end_page = 3    # 설정 여부와 관계없이 자동으로 target_date에 가장 가까운 end_page를 찾음.
 save_as_json = False
-target_date = datetime(2024, 4, 10)
+target_date = datetime(2014, 4, 1)
 save_location = os.getcwd()
 
+wait_time = 60*10  # IP 차단 방지를 위한 대기 시간(초)
+
 # 이어서 다운로드 하기를 원할 경우 해당 파일의 경로를 입력.
-continue_folder_path = None
+continue_folder_path = "cnbc_news_20240521235445"
+# continue_folder_path = None
 
 """     HYPERPARAMETERS END     """
 
@@ -371,8 +376,9 @@ for keyword in keyword_list:
                 print(f"Continue from {keyword}")
                 continue_start_page = get_continue_start_page(
                     keyword, cur_path)
+                print(f"Get continue_start_page: {continue_start_page}")
     search_term = keyword
-    os.chdir(os.path.join(save_location, project_dir_name))
+    # os.chdir(os.path.join(save_location, project_dir_name))
     os.makedirs(search_term, exist_ok=True)
     os.chdir(search_term)
     os.makedirs("articles", exist_ok=True)
@@ -394,17 +400,31 @@ for keyword in keyword_list:
         continue_folder_path = None
         print(f"Continue from page {start_page}")
 
-    for page in range(start_page, target_page_num + 1):
-        unclear_new_article_info_list = get_article_page(
-            search_term, page, setting)
-        new_article_info_list = get_article_list(
-            unclear_new_article_info_list, page, setting)
-        print(
-            f"Get {len(new_article_info_list)} articles in page {page}", end="  |  ")
-        # Save Array
-        save_array(new_article_info_list,
-                   f"info_logs/{search_term}_{page}", setting["save_as_json"])
-        info_list += new_article_info_list
+    repeat = True
+    error_count = 0
+    while repeat:
+        repeat = False
+        for page in range(start_page, target_page_num + 1):
+            unclear_new_article_info_list = get_article_page(
+                search_term, page, setting)
+            new_article_info_list = get_article_list(
+                unclear_new_article_info_list, page, setting)
+            if len(new_article_info_list) == 0:
+                error_count += 1
+                if error_count >= 3:
+                    print(f"Something went wrong. Wait for "
+                          f"{wait_time / 60} minutes...")
+                    time.sleep(wait_time)
+                    start_page = page - 3
+                    repeat = True
+                    error_count = 0
+                    break
+            print(
+                f"Get {len(new_article_info_list)} articles in page {page}", end="  |  ")
+            # Save Array
+            save_array(new_article_info_list,
+                       f"info_logs/{search_term}_{page}", setting["save_as_json"])
+            info_list += new_article_info_list
 
     # Save Total Info
     info_list = remove_duplicates_id(info_list)
